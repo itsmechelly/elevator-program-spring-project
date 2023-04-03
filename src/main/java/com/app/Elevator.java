@@ -3,7 +3,6 @@ package com.app;
 import java.util.*;
 
 public class Elevator {
-
     private static final int minFloor = 0;
     private static final int maxFloor = 10;
     private static int processingTime = 500;

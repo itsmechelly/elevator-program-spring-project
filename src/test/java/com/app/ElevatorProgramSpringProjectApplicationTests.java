@@ -14,8 +14,7 @@ import org.junit.jupiter.api.Test;
 
 class ElevatorProgramSpringProjectApplicationTests {
 
-    private final ByteArrayOutputStream printOut =
-            new ByteArrayOutputStream();
+    private final ByteArrayOutputStream printOut = new ByteArrayOutputStream();
 
     @BeforeEach
     public void setUpStreams() {
